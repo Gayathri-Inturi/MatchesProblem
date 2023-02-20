@@ -2,7 +2,7 @@ import java.util.*;
 public class MatchesProblem1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter no.of teams: ");
+        System.out.print("Enter teams: ");
         int n=sc.nextInt();
         System.out.println("Enter teams: ");
         ArrayList <String> teams=new ArrayList<>();
