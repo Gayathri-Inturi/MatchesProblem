@@ -1,0 +1,23 @@
+Enter no.of teams: 5
+Enter Teams: 
+India
+Pakisthan
+Australia
+Newzealand
+Bangladesh
+[India vs Pakisthan, India vs Australia, India vs Newzealand, India vs Bangladesh, Pakisthan vs Australia, Pakisthan vs Newzealand, Pakisthan vs Bangladesh, Australia vs Newzealand, Australia vs Bangladesh, Newzealand vs Bangladesh]
+India
+3
+1
+Pakisthan
+1
+3
+Australia
+2
+2
+Newzealand
+2
+2
+Bangladesh
+2
+2
